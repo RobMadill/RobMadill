@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋, I'm Rob Madill</h1>
+<h3 align="center">Software Development & Network Engineering Student @ Sheridan College | Junior Systems Analyst @ Envisioned Systems Inc. | Passion for Progressive Web Apps</h3>
+
+- 🔭 I’m currently working on a [script](https://github.com/RobMadill/Read4Public) that allows you to search a book with a keyword and tweet all sentences with that keyword! 
+- 💬 Ask me about my personal website and why I haven't finished it yet 🙃
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/robert-madill/) or [Email](robertmadill17@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I was previously a [music producer](https://soundcloud.com/robmadill) for roughly 10 years before switching to software development!
 
 <!--
 **RobMadill/RobMadill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
