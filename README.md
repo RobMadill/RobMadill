@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋, my names Rob Madill</h1>
-<h3 align="center">Software Development & Network Engineering Student @ Sheridan College | Junior Systems Analyst @ Envisioned Systems Inc. | Passion for Progressive Web Apps</h3>
+<h3 align="center">Computer Systems Technician – Software Engineering Graduate @ Sheridan College | Passion for Frontend Design & Development</h3>
 
 - 🔭 I’m currently working on a [script](https://github.com/RobMadill/Read4Public) that allows you to search a book with a keyword and tweet all sentences with that keyword! 
 - 💬 Ask me about my personal website and why I haven't finished it yet 🙃
